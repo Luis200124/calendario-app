@@ -1,14 +1,65 @@
 [
-  {
-    "fecha": "SÁBADO 14 DE JUNIO",
-    "Desayuno": "Omelette con espinaca y champiñones",
-    "Comida": "Pechuga de pollo asada con arroz integral y ensalada",
-    "Cena": "Sándwich de atún y aguacate con fresas"
-  },
-  {
-    "fecha": "DOMINGO 15 DE JUNIO",
-    "Desayuno": "Hotcakes de avena y plátano",
-    "Comida": "Filete de pescado con puré de papa y ensalada",
-    "Cena": "Ensalada de garbanzos con tostadas"
-  }
+	{
+		"fecha": "🟩Sábado 14 de Junio",
+		"🍳Desayuno": "Omelette con espinaca y champiñones",
+		"🥤Smoothie": "Smoothie tropical naranja",
+		"🍎Snack": "Manzana con crema de cacahuate",
+		"🍽Comida": "Pechuga de pollo asada con arroz integral y ensalada",
+		"🍓Snack": "Yogurt natural con frutos rojos y nueces",
+		"🥪Cena": "Sándwich de atún y aguacate con fresas"
+	},
+	{
+		"fecha": "🟩Domingo 15 de Junio",
+		"🥞Desayuno": "Hotcakes de avena y plátano",
+		"🥤Smoothie": "Smoothie de avena y frutos rojos",
+		"🥬Snack": "Palitos de apio con hummus",
+		"🍽Comida": "Filete de pescado con puré de papa y ensalada",
+		"🍫Snack": "Barrita de avena casera",
+		"🥗Cena": "Ensalada de garbanzos con tostadas"
+	},
+	{
+		"fecha": "🟩Lunes 16 de Junio",
+		"🥑Desayuno": "Tostadas con huevo y aguacate",
+		"🥤Smoothie": "Smoothie de mango y espinaca",
+		"🥓Snack": "Rollitos de pavo con aguacate",
+		"🍽Comida": "Albóndigas de pavo con arroz y verduras cocidas",
+		"🍇Snack": "Uvas congeladas",
+		"🌮Cena": "Quesadilla de champiñones y panela con ensalada verde"
+	},
+	{
+		"fecha": "🟩Martes 17 de Junio",
+		"🥣Desayuno": "Yogurt con fruta, avena y nueces",
+		"🥤Smoothie": "Smoothie de melón y pepino",
+		"🌶Snack": "Jícama y pepino con limón y chile",
+		"🍽Comida": "Carne magra a la plancha con tortillas y nopales",
+		"🍓Snack": "Fresas con coco rallado",
+		"🍲Cena": "Caldo de pollo con verduras, tortillas y yogurt"
+	},
+	{
+		"fecha": "🟩Miércoles 18 de Junio",
+		"🌮Desayuno": "Enfrijoladas con queso fresco",
+		"🥤Smoothie": "Smoothie de cacao y frutos secos",
+		"🥜Snack": "Mix de frutos secos y chocolate oscuro",
+		"🥗Comida": "Ensalada de pollo y pasta integral",
+		"🍿Snack": "Palomitas naturales y rebanada de panela con jitomate",
+		"🍲Cena": "Sopa de verduras y sardinas en tomate"
+	},
+	{
+		"fecha": "🟩Jueves 19 de Junio",
+		"🍳Desayuno": "Huevos con jitomate y frijoles con tortillas",
+		"🥤Smoothie": "Yogurt con frutos rojos y canela",
+		"🥕Snack": "Zanahorias baby con hummus",
+		"🍝Comida": "Pasta integral con atún y espinaca",
+		"🍏Snack": "Manzana con nueces y canela",
+		"🫓Cena": "Sincronizadas con nopales cocidos"
+	},
+	{
+		"fecha": "🟩Viernes 20 de Junio",
+		"🥛Desayuno": "Licuado nutritivo con tostada",
+		"🥤Smoothie": "Smoothie de pera y espinaca",
+		"🍪Snack": "Galletas integrales con queso cottage",
+		"🌮Comida": "Tacos de pollo deshebrado con frijoles y pico de gallo",
+		"🥥Snack": "Bolitas de avena sin hornear",
+		"🍲Cena": "Sopa de lentejas con pescado a la plancha y verduras al vapor"
+	},
 ]
