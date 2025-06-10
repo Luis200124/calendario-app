@@ -1,0 +1,20 @@
+{
+  "Omelette con espinaca y champiñones": {
+    "ingredientes": [
+      "2 huevos",
+      "1/2 taza de espinacas",
+      "1/2 taza de champiñones",
+      "1 cdita de aceite",
+      "Sal y pimienta"
+    ],
+    "preparacion": "Saltea champiñones, añade espinacas, agrega huevos batidos y cocina."
+  },
+  "Pechuga de pollo asada con arroz integral y ensalada": {
+    "ingredientes": [
+      "1 pechuga de pollo",
+      "1/2 taza de arroz integral",
+      "Ensalada de lechuga, jitomate, pepino"
+    ],
+    "preparacion": "Asa el pollo, sirve con arroz caliente y ensalada aderezada."
+  }
+}
