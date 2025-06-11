@@ -1,5 +1,70 @@
 {
-  "Ensalada de garbanzos con tostadas": {
+  "🍳Desayuno: Omelette con espinaca y champiñones": {
+    "ingredientes": [
+      "1 manzana en rebanadas",
+      "1 cda de crema de cacahuate natural"
+    ],
+    "preparacion": "Sirve las rebanadas de manzana con la crema como dip."
+  },
+  "🥤Smoothie: Smoothie tropical naranja": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🍎Snack: Manzana con crema de cacahuate": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🍽Comida: Pechuga de pollo asada con arroz integral y ensalada": {
+    "ingredientes": [
+      "1/2 taza de yogurt natural",
+      "1/4 taza de frutos rojos",
+      "1 cda de nueces troceadas"
+    ],
+    "preparacion": "Mezcla los ingredientes y disfruta."
+  },
+  "🍓Snack: Yogurt natural con frutos rojos y nueces": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🥪Cena: Sándwich de atún y aguacate con fresas": {
+    "ingredientes": [
+      "1 lata de atún en agua (escurrido)",
+      "1/2 aguacate",
+      "2 rebanadas de pan integral",
+      "1 cdita de mostaza",
+      "1/2 taza de fresas"
+    ],
+    "preparacion": "1. Mezcla atún con aguacate y mostaza. 2. Sirve sobre pan integral tostado. 3. Acompaña con fresas frescas."
+  },
+  "🥞Desayuno: Hotcakes de avena y plátano": {
+    "ingredientes": [
+      "3-4 ramas de apio cortadas en palitos",
+      "2 cdas de hummus"
+    ],
+    "preparacion": "Sirve los palitos con hummus como dip."
+  },
+  "🥤Smoothie: Smoothie de avena y frutos rojos": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🥬Snack: Palitos de apio con hummus": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🍽Comida: Filete de pescado con puré de papa y ensalada": {
+    "ingredientes": [
+      "1 taza de avena",
+      "1/4 taza de miel",
+      "1/4 taza de mantequilla de cacahuate",
+      "1/4 taza de frutos secos picados"
+    ],
+    "preparacion": "1. Mezcla la miel y la mantequilla de cacahuate a fuego bajo hasta integrar. 2. Agrega avena y frutos secos. 3. Coloca en un molde y presiona bien. 4. Refrigera 1 hora y corta en barritas."
+  },
+  "🍫Snack: Barrita de avena casera": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🥗Cena: Ensalada de garbanzos con tostadas": {
     "ingredientes": [
       "1 taza de garbanzos cocidos",
       "1/2 jitomate picado",
@@ -12,61 +77,29 @@
     ],
     "preparacion": "1. Mezcla los garbanzos con las verduras y adereza. 2. Sirve sobre las tostadas o acompaña aparte."
   },
-  "Rollitos de pavo con aguacate": {
+  "🥑Desayuno: Tostadas con huevo y aguacate": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Carne magra a la plancha con tortillas y nopales": {
+  "🥤Smoothie: Smoothie de mango y espinaca": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🥓Snack: Rollitos de pavo con aguacate": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🍽Comida: Albóndigas de pavo con arroz y verduras cocidas": {
     "ingredientes": [
-      "1/2 taza de fresas",
-      "1 cda de coco rallado sin azúcar"
+      "1/2 taza de uvas"
     ],
-    "preparacion": "Lava y corta las fresas, espolvorea el coco por encima."
+    "preparacion": "Lava las uvas, congélalas por al menos 2 horas y consúmelas como un snack refrescante."
   },
-  "Jícama y pepino con limón y chile": {
+  "🍇Snack: Uvas congeladas": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Smoothie de avena y frutos rojos": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Sincronizadas con nopales cocidos": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Smoothie de pera y espinaca": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Smoothie de cacao y frutos secos": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Ensalada de pollo y pasta integral": {
-    "ingredientes": [
-      "1 taza de palomitas naturales (sin mantequilla)",
-      "1 rebanada de queso panela",
-      "2 rebanadas de jitomate",
-      "Orégano o albahaca (opcional)"
-    ],
-    "preparacion": "1. Prepara las palomitas sin aceite en microondas o sartén. 2. Sirve con la rebanada de queso y jitomate encima, espolvorea orégano."
-  },
-  "Huevos con jitomate y frijoles con tortillas": {
-    "ingredientes": [
-      "2 tortillas de maíz o harina",
-      "2 rebanadas de queso (manchego o panela)",
-      "2 rebanadas de jamón de pavo (opcional)",
-      "1 nopal cocido cortado en tiras",
-      "Aceite en aerosol o sartén antiadherente"
-    ],
-    "preparacion": "1. Forma las sincronizadas colocando el queso y jamón entre las tortillas. 2. Asa en sartén hasta que el queso se derrita. 3. Acompaña con nopales cocidos aderezados con limón y sal."
-  },
-  "Smoothie de melón y pepino": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Quesadilla de champiñones y panela con ensalada verde": {
+  "🌮Cena: Quesadilla de champiñones y panela con ensalada verde": {
     "ingredientes": [
       "2 tortillas de maíz",
       "1/2 taza de champiñones rebanados",
@@ -77,70 +110,30 @@
     ],
     "preparacion": "1. Saltea los champiñones. 2. Coloca sobre una tortilla junto con el queso y tapa con la otra. 3. Asa en sartén hasta dorar por ambos lados. 4. Acompaña con ensalada fresca."
   },
-  "Zanahorias baby con hummus": {
+  "🥣Desayuno: Yogurt con fruta, avena y nueces": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Bolitas de avena sin hornear": {
+  "🥤Smoothie: Smoothie de melón y pepino": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Tostadas con huevo y aguacate": {
+  "🌶Snack: Jícama y pepino con limón y chile": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Hotcakes de avena y plátano": {
+  "🍽Comida: Carne magra a la plancha con tortillas y nopales": {
     "ingredientes": [
-      "3-4 ramas de apio cortadas en palitos",
-      "2 cdas de hummus"
+      "1/2 taza de fresas",
+      "1 cda de coco rallado sin azúcar"
     ],
-    "preparacion": "Sirve los palitos con hummus como dip."
+    "preparacion": "Lava y corta las fresas, espolvorea el coco por encima."
   },
-  "Enfrijoladas con queso fresco": {
-    "ingredientes": [
-      "1 cda de almendras",
-      "1 cda de nueces",
-      "1 cda de pasas o arándanos secos",
-      "2 cuadritos pequeños de chocolate oscuro (mínimo 70% cacao)"
-    ],
-    "preparacion": "Mezcla todos los ingredientes y disfruta como snack energético."
-  },
-  "Manzana con crema de cacahuate": {
+  "🍓Snack: Fresas con coco rallado": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Palomitas naturales y rebanada de panela con jitomate": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Albóndigas de pavo con arroz y verduras cocidas": {
-    "ingredientes": [
-      "1/2 taza de uvas"
-    ],
-    "preparacion": "Lava las uvas, congélalas por al menos 2 horas y consúmelas como un snack refrescante."
-  },
-  "Manzana con nueces y canela": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Palitos de apio con hummus": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Filete de pescado con puré de papa y ensalada": {
-    "ingredientes": [
-      "1 taza de avena",
-      "1/4 taza de miel",
-      "1/4 taza de mantequilla de cacahuate",
-      "1/4 taza de frutos secos picados"
-    ],
-    "preparacion": "1. Mezcla la miel y la mantequilla de cacahuate a fuego bajo hasta integrar. 2. Agrega avena y frutos secos. 3. Coloca en un molde y presiona bien. 4. Refrigera 1 hora y corta en barritas."
-  },
-  "Yogurt con fruta, avena y nueces": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Caldo de pollo con verduras, tortillas y yogurt": {
+  "🍲Cena: Caldo de pollo con verduras, tortillas y yogurt": {
     "ingredientes": [
       "1 taza de caldo de pollo (hecho con hueso y pechuga)",
       "1/2 taza de verduras:",
@@ -153,15 +146,37 @@
     ],
     "preparacion": "1. Cocina las verduras en el caldo junto con el pollo. 2. Sirve caliente con tortillas al lado. 3. Acompaña con yogurt natural como postre ligero."
   },
-  "Uvas congeladas": {
+  "🌮Desayuno: Enfrijoladas con queso fresco": {
+    "ingredientes": [
+      "1 cda de almendras",
+      "1 cda de nueces",
+      "1 cda de pasas o arándanos secos",
+      "2 cuadritos pequeños de chocolate oscuro (mínimo 70% cacao)"
+    ],
+    "preparacion": "Mezcla todos los ingredientes y disfruta como snack energético."
+  },
+  "🥤Smoothie: Smoothie de cacao y frutos secos": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Mix de frutos secos y chocolate oscuro": {
+  "🥜Snack: Mix de frutos secos y chocolate oscuro": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Sopa de verduras y sardinas en tomate": {
+  "🥗Comida: Ensalada de pollo y pasta integral": {
+    "ingredientes": [
+      "1 taza de palomitas naturales (sin mantequilla)",
+      "1 rebanada de queso panela",
+      "2 rebanadas de jitomate",
+      "Orégano o albahaca (opcional)"
+    ],
+    "preparacion": "1. Prepara las palomitas sin aceite en microondas o sartén. 2. Sirve con la rebanada de queso y jitomate encima, espolvorea orégano."
+  },
+  "🍿Snack: Palomitas naturales y rebanada de panela con jitomate": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🍲Cena: Sopa de verduras y sardinas en tomate": {
     "ingredientes": [
       "1 taza de sopa de verduras (zanahoria, papa, calabaza, ejotes)",
       "1 lata de sardinas en salsa de tomate",
@@ -169,53 +184,49 @@
     ],
     "preparacion": "1. Cocina las verduras en agua con sal, cebolla y un poco de ajo. 2. Sirve con sardinas calientes al lado o encima. 3. Acompaña con tortillas si deseas."
   },
-  "Smoothie tropical naranja": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Smoothie de mango y espinaca": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Pasta integral con atún y espinaca": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Sándwich de atún y aguacate con fresas": {
+  "🍳Desayuno: Huevos con jitomate y frijoles con tortillas": {
     "ingredientes": [
-      "1 lata de atún en agua (escurrido)",
-      "1/2 aguacate",
-      "2 rebanadas de pan integral",
-      "1 cdita de mostaza",
-      "1/2 taza de fresas"
+      "2 tortillas de maíz o harina",
+      "2 rebanadas de queso (manchego o panela)",
+      "2 rebanadas de jamón de pavo (opcional)",
+      "1 nopal cocido cortado en tiras",
+      "Aceite en aerosol o sartén antiadherente"
     ],
-    "preparacion": "1. Mezcla atún con aguacate y mostaza. 2. Sirve sobre pan integral tostado. 3. Acompaña con fresas frescas."
+    "preparacion": "1. Forma las sincronizadas colocando el queso y jamón entre las tortillas. 2. Asa en sartén hasta que el queso se derrita. 3. Acompaña con nopales cocidos aderezados con limón y sal."
   },
-  "Pechuga de pollo asada con arroz integral y ensalada": {
-    "ingredientes": [
-      "1/2 taza de yogurt natural",
-      "1/4 taza de frutos rojos",
-      "1 cda de nueces troceadas"
-    ],
-    "preparacion": "Mezcla los ingredientes y disfruta."
-  },
-  "Barrita de avena casera": {
+  "🥤Smoothie: Yogurt con frutos rojos y canela": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Galletas integrales con queso cottage": {
+  "🥕Snack: Zanahorias baby con hummus": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Yogurt natural con frutos rojos y nueces": {
+  "🍝Comida: Pasta integral con atún y espinaca": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Licuado nutritivo con tostada": {
+  "🍏Snack: Manzana con nueces y canela": {
     "ingredientes": [],
     "preparacion": "Receta no disponible."
   },
-  "Tacos de pollo deshebrado con frijoles y pico de gallo": {
+  "🫓Cena: Sincronizadas con nopales cocidos": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🥛Desayuno: Licuado nutritivo con tostada": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🥤Smoothie: Smoothie de pera y espinaca": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🍪Snack: Galletas integrales con queso cottage": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🌮Comida: Tacos de pollo deshebrado con frijoles y pico de gallo": {
     "ingredientes": [
       "1/2 taza de avena",
       "1/4 taza de crema de cacahuate",
@@ -225,7 +236,11 @@
     ],
     "preparacion": "1. Mezcla todos los ingredientes hasta formar una masa. 2. Forma bolitas con las manos. 3. Refrigera por 30 minutos antes de consumir."
   },
-  "Sopa de lentejas con pescado a la plancha y verduras al vapor": {
+  "🥥Snack: Bolitas de avena sin hornear": {
+    "ingredientes": [],
+    "preparacion": "Receta no disponible."
+  },
+  "🍲Cena: Sopa de lentejas con pescado a la plancha y verduras al vapor": {
     "ingredientes": [
       "1 taza de lentejas cocidas en caldo con zanahoria, papa y apio",
       "1 filete de pescado blanco",
@@ -239,20 +254,5 @@
       "Limón"
     ],
     "preparacion": "1. Cocina el pescado a la plancha con limón y especias. 2. Sirve la sopa caliente con verduras al vapor al lado y el pescado como fuente de proteína."
-  },
-  "Fresas con coco rallado": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Yogurt con frutos rojos y canela": {
-    "ingredientes": [],
-    "preparacion": "Receta no disponible."
-  },
-  "Omelette con espinaca y champiñones": {
-    "ingredientes": [
-      "1 manzana en rebanadas",
-      "1 cda de crema de cacahuate natural"
-    ],
-    "preparacion": "Sirve las rebanadas de manzana con la crema como dip."
   }
 }
