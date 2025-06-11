@@ -3,9 +3,8 @@ self.addEventListener('install', e => {
     caches.open('calendario-cache').then(cache => {
       return cache.addAll([
         'index.html',
-        'styles.css',
         'scripts.js',
-        'menu.json',
+        'manifest.json',
         'recetas.json'
       ]);
     })
