@@ -14,29 +14,30 @@ async function cargarDatos() {
     const comidas = document.createElement('div');
     comidas.className = 'oculto';
 
-    ['Desayuno', 'Comida', 'Cena'].forEach(tipo => {
-      const platillo = dia[tipo];
-      const div = document.createElement('div');
-      const label = document.createElement('strong');
-      label.textContent = tipo + ': ' + platillo;
-      const btn = document.createElement('button');
-      btn.textContent = '+';
-      btn.onclick = () => {
-        if (div.lastChild.nodeName !== 'DIV') {
-          const receta = recetas[platillo] || {ingredientes: [], preparacion: "No disponible"};
-          const det = document.createElement('div');
-          det.className = 'receta';
-          det.innerHTML = `<p><strong>Ingredientes:</strong> ${receta.ingredientes.join(', ')}</p><p><strong>Preparación:</strong> ${receta.preparacion}</p>`;
-          div.appendChild(det);
-          btn.textContent = '−';
-        } else {
-          div.removeChild(div.lastChild);
-          btn.textContent = '+';
-        }
-      };
-      div.appendChild(label);
-      div.appendChild(btn);
-      comidas.appendChild(div);
+    Object.entries(dia).forEach(([clave, platillo]) => {
+      if (clave !== "fecha") {
+        const div = document.createElement('div');
+        const label = document.createElement('strong');
+        label.textContent = clave + ": " + platillo;
+        const btn = document.createElement('button');
+        btn.textContent = '+';
+        btn.onclick = () => {
+          if (div.lastChild.nodeName !== 'DIV') {
+            const receta = recetas[clave + ": " + platillo] || {ingredientes: [], preparacion: "No disponible"};
+            const det = document.createElement('div');
+            det.className = 'receta';
+            det.innerHTML = `<p><strong>Ingredientes:</strong> ${receta.ingredientes.join(', ')}</p><p><strong>Preparación:</strong> ${receta.preparacion}</p>`;
+            div.appendChild(det);
+            btn.textContent = '−';
+          } else {
+            div.removeChild(div.lastChild);
+            btn.textContent = '+';
+          }
+        };
+        div.appendChild(label);
+        div.appendChild(btn);
+        comidas.appendChild(div);
+      }
     });
 
     btnToggle.onclick = () => {
